@@ -1,5 +1,5 @@
 # tronscript
-tronscript is a IT persons best friend  
+tronscript is a IT persons best friend  look at the read me please
 
 "Tron is a script that "fights for the User."
 
